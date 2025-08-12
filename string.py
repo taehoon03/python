@@ -4,4 +4,4 @@ print('hello world!!')
 number=66
 if number < 70:
     print('작네') 
-    
+ZeroDivisionError
